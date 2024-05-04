@@ -1,6 +1,4 @@
-# CO2-emissions_CASA0007
-
-## Title: Analysis carbon dioxide emissions in the UK by some explanatory models
+# Title: Analysis carbon dioxide emissions in the UK by some explanatory models
 
 ## abstract 
 to be done
